@@ -36,3 +36,33 @@ Template: astra
 
 /* your code starts here 👇 */
 
+.has-carbon-color {
+  color:#4A4A4A!important;
+}
+.has-carbon-background-color {
+    background-color:#4A4A4A!important;
+}
+.has-caramel-color {
+  color:#8b572a!important;
+}
+.has-caramel-background-color {
+    background-color:#8b572a!important;
+}
+.has-vanilla-color {
+  color:#ebe5d9!important;
+}
+.has-vanilla-background-color {
+    background-color:#ebe5d9!important;
+}
+.has-cappuccino-color {
+  color:#b09f82!important;
+}
+.has-cappuccino-background-color {
+    background-color:#b09f82!important;
+}
+.has-white-color {
+  color:#ffffff!important;
+}
+.has-white-background-color {
+    background-color:#ffffff!important;
+}
